@@ -1,0 +1,1 @@
+Version 9: Play-along mit Geschwindigkeit und A/B-Loop sowie Aufnahme-Referenzvergleich. Mikrofon und vollständige PWA-Funktionen benötigen HTTPS. Der Audiovergleich ist eine lokale Übungshilfe und keine professionelle Musiktranskription.
