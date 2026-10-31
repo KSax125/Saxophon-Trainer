@@ -29,3 +29,13 @@ V24.1: Design- und Stabilitaetsupdate. Mobile Navigation kompakter, Karten/Butto
 V24.1 Timer-Patch: Der Trainingstimer übernimmt im Coach-Training automatisch die im Coach eingestellte Trainingsdauer (20/30/45/60 Minuten). Zurücksetzen stellt ebenfalls diese Dauer wieder her.
 
 V24.2: Uebungserinnerungen. Global Ein/Aus, Montag-Sonntag individuell, eigene Uhrzeit je Tag, drei Erinnerungstexte, Benachrichtigungsberechtigung, Testfunktion und Anzeige der naechsten Erinnerung. Lokale Zeitpruefung erfolgt waehrend die Web-App aktiv ist.
+
+V24.2 Timer-Fix: Der Timer im Bereich Training folgt jetzt immer der im Coach gespeicherten Trainingsdauer, auch wenn Training direkt ueber die Navigation oder als Kalendertraining geoeffnet wird. Zuruecksetzen stellt die Coach-Dauer wieder her.
+
+V24.2 Bereinigung: Doppelte Uebungsansichten reduziert. Uebungen und Uebungsblaetter werden zentral im Bereich Uebungen verwaltet. Training konzentriert sich auf laufende Einheit, Timer, Metronom und Speichern. Coach konzentriert sich auf Profil, Einstellungen und Bewertungen. Bestehende Daten-IDs bleiben fuer Kompatibilitaet erhalten.
+
+V24.2 Layout-Fix: Der Uebungs-/Trainingsplan wurde von der Startseite entfernt und wieder im Bereich Training sichtbar gemacht. Start bleibt kompakt; Coach bleibt fuer Einstellungen und Bewertungen; Timer-Fix bleibt enthalten.
+
+V24.2 Intensitaets-Fix: Die bewaehrte Intensitaetseinstellung 1 bis 5 und die Gewichtungsanzeige sind im Coach wieder sichtbar. Die Uebungsansicht bleibt auf Start entfernt und im Training sichtbar. Timer-Fix bleibt erhalten.
+
+V25: SaxCoach-Logo mit goldenem Altsaxophon integriert. Logo im Kopfbereich und auf der Startseite, iPad Apple-Touch-Icon, PWA-Icons 192/512 und Favicon. Die Funktionen der funktionierenden V24.2 bleiben erhalten.
