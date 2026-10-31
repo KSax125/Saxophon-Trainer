@@ -41,3 +41,5 @@ V24.2 Intensitaets-Fix: Die bewaehrte Intensitaetseinstellung 1 bis 5 und die Ge
 V25: SaxCoach-Logo mit goldenem Altsaxophon integriert. Logo im Kopfbereich und auf der Startseite, iPad Apple-Touch-Icon, PWA-Icons 192/512 und Favicon. Die Funktionen der funktionierenden V24.2 bleiben erhalten.
 
 V25.1: Blue & Gold Design. Markenfarben Dunkelblau und Gold appweit vereinheitlicht. Gold fuer aktive Bedienelemente, Fortschritt und Highlights; helle Schrift fuer Kontrast. Gruen und Rot bleiben funktionalen Erfolg-/Warnzustaenden vorbehalten. Funktionen aus V25 unveraendert.
+
+V25.1f: Schriftfarben-Korrekturen fuer Training UND Uebungserinnerungen gemeinsam enthalten. Layout, Hintergruende und Funktionen unveraendert.
