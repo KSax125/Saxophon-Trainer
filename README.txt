@@ -41,3 +41,11 @@ V24.2 Intensitaets-Fix: Die bewaehrte Intensitaetseinstellung 1 bis 5 und die Ge
 V25: SaxCoach-Logo mit goldenem Altsaxophon integriert. Logo im Kopfbereich und auf der Startseite, iPad Apple-Touch-Icon, PWA-Icons 192/512 und Favicon. Die Funktionen der funktionierenden V24.2 bleiben erhalten.
 
 V25.1: Tonanalyse zeigt die zum Profilinstrument passende geschriebene Saxophonnote (Altsax/Bariton Es, Tenor/Sopran B). Intensitaet wurde auf 0 bis 5 erweitert; Stufe 0 schliesst einen Bereich aus. Anzahl der Schwerpunktuebungen pro Coach-Einheit kann von 1 bis 4 festgelegt werden, Standard 2.
+
+V25.1 Sync-Fix: Intensitaetsbuttons 0-5 wieder aktiv. Uebungsanzahl 1-4 wird gespeichert, Coach-Plan neu aufgebaut und direkt in die Coach-Trainingsansicht uebernommen. Coach, Plan und Training verwenden denselben gespeicherten Stand.
+
+V25.1 Blau-Gold-Fix: Weisse Flaechen durch das feste dunkelblaue Markenlayout ersetzt. Karten, Eingaben, Navigation und Coach-Bereiche sind wieder blau mit goldenen Akzenten; Textkontraste wurden angepasst.
+
+V25.1 Exact-Count-Fix: Die Einstellung 1 bis 4 bezeichnet jetzt exakt die gesamte Anzahl der Uebungen im Coach-Training. Die zwei automatischen Zusatzuebungen Einspielen und Abschluss wurden aus dieser Zaehllogik entfernt.
+
+V25.1 Runtime-Fix: Initialisierungsfehler behoben. Intensitaeten werden jetzt immer geladen, unabhaengig davon ob exerciseCount bereits gueltig gespeichert ist. Dadurch funktionieren Intensitaetswahl und die Auswahl 1-4 Uebungen wieder als gemeinsame Coach-Grundlage.
